@@ -1,0 +1,5 @@
+i:O want:O to:O fly:O from:O baltimore:B-fromloc.city_name to:O dallas:B-toloc.city_name round:B-round_trip trip:I-round_trip <=> atis_flight
+round:B-round_trip trip:I-round_trip fares:O from:O baltimore:B-fromloc.city_name to:O philadelphia:B-toloc.city_name less:B-cost_relative than:O 1000:B-fare_amount dollars:I-fare_amount round:B-round_trip trip:I-round_trip fares:O from:O denver:B-fromloc.city_name to:O philadelphia:B-toloc.city_name less:B-cost_relative than:O 1000:B-fare_amount dollars:I-fare_amount round:B-round_trip trip:I-round_trip fares:O from:O pittsburgh:B-fromloc.city_name to:O philadelphia:B-toloc.city_name less:B-cost_relative than:O 1000:B-fare_amount dollars:I-fare_amount <=> atis_airfare
+show:O me:O the:O flights:O arriving:O on:O baltimore:B-toloc.city_name on:O june:B-arrive_date.month_name fourteenth:B-arrive_date.day_number <=> atis_flight
+what:O are:O the:O flights:O which:O depart:O from:O san:B-fromloc.city_name francisco:I-fromloc.city_name fly:O to:O washington:B-toloc.city_name via:O indianapolis:B-stoploc.city_name and:O arrive:O by:B-arrive_time.time_relative 9:B-arrive_time.time pm:I-arrive_time.time <=> atis_flight
+

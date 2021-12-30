@@ -1,0 +1,8 @@
+[STATUSMESSAGE]
+l20033=TRUE
+e50017=FALSE
+e50018=ERROR
+
+[APIENDPOINT]
+endpoint=/pipeline_api/
+port_no=5000
