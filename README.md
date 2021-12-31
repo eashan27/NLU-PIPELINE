@@ -1,5 +1,5 @@
 # NLU-PIPELINE
- NLU-PIPELINE
+
 # OBJECTIVE
 The aim of the project is to develop an automated **NATURAL LANGUAGE UNDERSTANDING PIPELINE** the technology behind conversational AI which inlcudes tasks like **intent classification**,**slot extraction**,aiming to provide a semantic way for user utterances.Intent classification focuses on the intent (context) of the query, while slot filling extracts semantic concepts in the user query.There are a total of 5 modules used in this Project:
 
@@ -53,6 +53,6 @@ USER UTTERANCE- I want to fly from baltimore to dallas round trip
 ```
 
 ## OUTPUT
-![Alt text]('/home/eshan/Pictures/Screenshot from 2021-12-31 02-57-36.png'?raw=true "Optional Title")
+![Alt text]('https://raw.github.com/{eashan27}/{NLU-PIPELINE}/{BRANCH}/{/home/eshan/Pictures/Screenshot from 2021-12-31 02-57-36.png})
 
 
