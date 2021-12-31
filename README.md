@@ -53,6 +53,6 @@ USER UTTERANCE- I want to fly from baltimore to dallas round trip
 ```
 
 ## OUTPUT
-![Alt text]('https://raw.github.com/{eashan27}/{NLU-PIPELINE}/{BRANCH}/{/home/eshan/Pictures/Screenshot from 2021-12-31 02-57-36.png})
+![Alt text]('https://raw.github.com/{eashan27}/{NLU-PIPELINE}/branch/{/home/eshan/Pictures/Screenshot from 2021-12-31 02-57-36.png})
 
 
