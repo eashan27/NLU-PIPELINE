@@ -48,9 +48,11 @@ Go to the project directory
 
 ## INPUT
 
-```http
+```bash
 USER UTTERANCE- I want to fly from baltimore to dallas round trip
 ```
 
 ## OUTPUT
+![Alt text]('/home/eshan/Pictures/Screenshot from 2021-12-31 02-57-36.png'?raw=true "Optional Title")
+
 
