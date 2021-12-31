@@ -53,6 +53,25 @@ USER UTTERANCE- I want to fly from baltimore to dallas round trip
 ```
 
 ## OUTPUT
-![Alt text]('https://raw.github.com/{eashan27}/{NLU-PIPELINE}/branch/home/eshan/Pictures/Screenshot from 2021-12-31 02-57-36.png)
+Module 1:Query Correctness
+```bash
+correctness': {'value': 'correct', 'confidence': '0.9998168528035659', 'entity': 'query', 'extractor': 'query_correctness_extractor'}
+```
 
+Module 2: Query Type
+ ```bash
+ type': {'value': 'DESCRIPTION', 'confidence': '0.9966506122903696', 'entity': 'query', 'extractor': 'query_type_extractor'}
+ ```
+Module 3: Intent classification
+```bash
+intent': {'value': ['atis_flight'], 'confidence': '[0.99599236]', 'intent': 'multi_intent', 'extractor': 'multi_intent_extractor
+```
+Module 4:Slots
+```bash
+entities': {'slot': 'B-fromloc.city_name', 'value': 'baltimore', 'extractor': 'slot_extractor'}, {'slot': 'B-toloc.city_name', 'value': 'dallas', 'extractor': 'slot_extractor'{'slot': 'B-round_trip', 'value': 'round', 'extractor': 'slot_extractor'}, {'slot': 'I-round_trip', 'value': 'trip', 'extractor': 'slot_extractor'}}
+```
+Module 5:Sentiment Classification
+```bash
+sentiment': {'value': 'POSITIVE', 'confidence': 0.9926454424858093, 'entity': 'sentiment', 'extractor': 'sentiment_extractor
+```
 
